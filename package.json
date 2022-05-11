@@ -1,0 +1,21 @@
+{
+  "name": "joshuaeghelshi-resume",
+  "version": "1.0.0",
+  "description": "My Resume Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Joshua Eghelshi",
+  "license": "ISC",
+  
+  "bin" : {
+    "your-command-here": "./index.js"
+  }
+
+}
+
+
